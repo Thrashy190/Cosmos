@@ -9,16 +9,10 @@
 
 <br>
 
-<p align="center">
-  <a href="">
+<div align="center">
     <img src="https://img.shields.io/badge/-Rust-000000?logo=rust" alt="Rust Lang" />
-  </a>
-  <a href="">
     <img src="https://img.shields.io/badge/version-v0.1.0-black" alt="Version" />
-  </a>
- <a href="">
     <img src="https://img.shields.io/badge/License-MIT%20or%20Apache%202-black.svg" alt="License" />
-  </a>
-</p>
+</div>
 
 ## Getting Started
