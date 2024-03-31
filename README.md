@@ -10,7 +10,15 @@
 <br>
 
 <p align="center">
-  <a href="https://www.npmjs.org/package/@strapi/strapi">
-    <img src="https://img.shields.io/npm/v/@strapi/strapi/latest.svg" alt=" Version" />
+  <a href="">
+    <img src="https://img.shields.io/badge/-Rust-000000?logo=rust" alt="Rust Lang" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/version-v0.1.0-black" alt="Version" />
+  </a>
+ <a href="">
+    <img src="https://img.shields.io/badge/License-MIT%20or%20Apache%202-black.svg" alt="License" />
   </a>
 </p>
+
+## Getting Started
