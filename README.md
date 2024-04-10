@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">Cosmos an Open-source headless CMS self-hosted on development</h3>
+<h3 align="center">Cosmos an Open-source headless CMS self-hosted</h3>
 <p align="center">100% Rust CMS</p>
 
 <br>
@@ -41,6 +41,7 @@
 
 ## Features under development
 
+- **Blog Creation**
 - **Interface/stripe Creation**
 - **Custom content Manager**
 - **Custom widgets Creator**
